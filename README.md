@@ -5,3 +5,5 @@ When you enter a waypoint, a random mission name will appear and other random mi
 When you complete a mission, a random waypoint will appear
 To prevent wanted level or interior access bugs, all the cities and interior are open at the start of the game
 Please leave credit if you use this in a video / stream etc
+
+The mod is currenty V1, i already planned some updates
