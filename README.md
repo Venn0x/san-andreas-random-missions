@@ -7,3 +7,6 @@ To prevent wanted level or interior access bugs, all the cities and interior are
 Please leave credit if you use this in a video / stream etc
 
 The mod is currenty V1, i already planned some updates
+
+To install:
+Replace the main.scm file (from the mod) to: Game directory/data/script/main.scm
