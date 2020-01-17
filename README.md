@@ -6,6 +6,9 @@ When you complete a mission, a random waypoint will appear
 To prevent wanted level or interior access bugs, all the cities and interior are open at the start of the game
 Please leave credit if you use this in a video / stream etc
 
+V2.1:
+- Solved the blackscreen bug
+
 V2:
 - Now, if a mission plays once, it won t play until the end of the game
 - The game end when 80 storyline missions are completed.
