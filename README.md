@@ -11,8 +11,8 @@ V2.1:
 
 V2:
 - Now, if a mission plays once, it won t play until the end of the game
-- The game end when 80 storyline missions are completed.
-- After 80 missions completed, the counter resets and the played missions can play again
+- The game end when 90 storyline missions are completed.
+- After 90 missions completed, the counter resets and the played missions can play again
 - Added support for saves
 
 To install:
